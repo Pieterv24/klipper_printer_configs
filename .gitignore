@@ -2,3 +2,5 @@ printer-*.cfg
 .theme
 mooncord.json
 *.bkp
+resonance_measurements
+probe_accuracy_output
