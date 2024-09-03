@@ -2,3 +2,4 @@ printer-*.cfg
 .theme
 mooncord.json
 .moonraker.conf.bkp
+crowsnest.conf.*
