@@ -1,4 +1,5 @@
 printer-*.cfg
+crowsnest.conf.*
 .theme
 mooncord.json
 *.bkp
