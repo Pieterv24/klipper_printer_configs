@@ -94,7 +94,6 @@ type: web
 channel: stable
 repo: mainsail-crew/mainsail
 path: ~/mainsail
-
 [update_manager klipper-backup]
 type: git_repo
 path: ~/klipper-backup
